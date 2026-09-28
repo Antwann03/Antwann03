@@ -1,3 +1,3 @@
 # 💫 About Me:
-I'm currently studying Computer Engineering.<br>
+I like robots.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
